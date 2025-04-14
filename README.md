@@ -118,7 +118,7 @@ page=[1,3,28,27,25,92,30,39,40,50,26,24,29,94]
 af=pd.DataFrame(age)
 af
 ```
-![alt text](<Screenshot 2025-04-15 032604.png>) ![alt text](<Screenshot 2025-04-15 032349-1.png>)
+![alt text](<Screenshot 2025-04-15 032604.png>)
 ```
 sns.boxplot(data=af)
 ```
@@ -215,4 +215,3 @@ print(wf[z['weight']>3])
 ![alt text](<Screenshot 2025-04-15 033647.png>)
 # Result
           <<include your Result here>>
-          
